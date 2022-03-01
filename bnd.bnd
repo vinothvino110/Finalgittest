@@ -1,0 +1,4 @@
+Bundle-Name: ServeresourceTest
+Bundle-SymbolicName: ServeresourceTest
+Bundle-Version: 1.0.0
+Export-Package: ServeresourceTest.constants
